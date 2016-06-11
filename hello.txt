@@ -1,2 +1,3 @@
 first hello worold init
 what i should do
+change first on clone dev
